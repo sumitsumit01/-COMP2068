@@ -1,0 +1,15 @@
+{
+  "name": "in-class-project",
+  "version": "0.1.0",
+  "description": "A game of thrones to make love with anyone",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Sumit Sumit",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
